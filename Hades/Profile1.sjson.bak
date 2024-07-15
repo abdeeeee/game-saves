@@ -1,0 +1,22 @@
+{
+  WindowHeight = 768
+  MasterVolume = 0.729080
+  EasyMode = true
+  NewUpdateSoundRevisionViewed = 38290
+  BackupSaveCount = 7
+  FxVolume = 0.070347
+  LastRoadmapRevisionViewed = 38290
+  MusicVolume = 0.000000
+  Rumble = false
+  DisplayIndex = 0
+  ShowGameplayTimer = true
+  ValidCheckpoint = false
+  LastPatchNoteRevisionViewed = 38290
+  ControlsResetRevisionViewed = 38290
+  Y = 768
+  X = 1366
+  DefaultControlsChosen = true
+  WindowWidth = 1366
+  UseAltCursor = true
+  UseGamepadGlyphs = true
+}
